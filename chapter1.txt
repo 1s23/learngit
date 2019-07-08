@@ -5,5 +5,12 @@ Git tracks changes.
 hello world
 Creating a new branch is  quick and simple.
 ni hao.
+<<<<<<< Updated upstream
 nishizu
+=======
+o my 
+>>>>>>> Stashed changes
+
+beautiful
+
 
