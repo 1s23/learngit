@@ -12,6 +12,11 @@ o my
 >>>>>>> Stashed changes
 
 beautiful
+<<<<<<< HEAD
 suitable
+=======
+wonderful
+
+>>>>>>> 186e64209a3d148de85eab5b2c5a92a678b3fc02
 
 
